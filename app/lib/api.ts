@@ -5,7 +5,7 @@ export const getFeed = async () => {
   const response = await fetch(url, {
     method: 'GET',
     headers: {
-      Prefer: 'code=200',
+      Prefer: 'code=200, dynamic=true',
       Accept: 'application/json'
     }
   })
