@@ -6,6 +6,11 @@ I chose to use Next.js because of its ability to use Server Side Rendering (SSR)
 
 With it, I am able to easily use the necessary APIs for my app without the need to build multiple applications, being able to do everything within the tool's ecosystem greatly increases productivity.
 
+I chose to use Next.js because of its ability to use Server Side Rendering (SSR) and facilitate application development. SSR allows the content to be rendered on the server, improving loading time and user experience, especially on older mobile devices and slower connections. Additionally, Next.js offers optimized configurations, code splitting support, and hot reload of the application, making development more efficient. With Next.js, I can take advantage of all these benefits and create applications faster and more effectively.
+
+I also utilized some popular UI libraries such as Radix, Shadcn, and Tailwind, which provide pre-built components and styling options to enhance the user interface of my application.
+
+
 
 ### How to run the project
 
