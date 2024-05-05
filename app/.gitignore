@@ -34,5 +34,5 @@ yarn-error.log*
 .turbo
 
 .contentlayer
-.env
+# .env
 .vscode
